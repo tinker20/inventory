@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 This file demonstrates two different styles of tests (one doctest and one
 unittest). These will both pass when you run "manage.py test".
@@ -21,3 +22,6 @@ Another way to test that 1 + 1 is equal to 2.
 True
 """}
 
+=======
+#write the tests here
+>>>>>>> f6067b6ace9b98d0b2ef6336a2cbdf523cb3e103

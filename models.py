@@ -95,4 +95,8 @@ class Coin(ProductType):
     last_update = models.DateTimeField(auto_now=True)
 
     def __unicode__(self):
+<<<<<<< HEAD
         return "Coin<%s>" % self.pcgs_number
+=======
+        return "Coin<%s>" % self.pcgs_number
+>>>>>>> f6067b6ace9b98d0b2ef6336a2cbdf523cb3e103
